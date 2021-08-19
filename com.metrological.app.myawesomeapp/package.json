@@ -10,6 +10,9 @@
       "git add"
     ]
   },
+  "scripts": {
+    "start": "lng dev"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
